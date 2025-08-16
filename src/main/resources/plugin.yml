@@ -1,0 +1,6 @@
+name: PingCheckChat
+main: me.james.pingcheckchat.PingCheckChat
+version: 1.0
+api-version: 1.16
+description: Adds ping next to player names in chat
+author: James

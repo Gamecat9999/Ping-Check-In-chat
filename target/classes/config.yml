@@ -1,0 +1,8 @@
+pingThresholds:
+  good: 100
+  moderate: 200
+
+symbols:
+  good: "🟢"
+  moderate: "🟡"
+  poor: "🔴"
